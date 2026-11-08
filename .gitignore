@@ -1,0 +1,27 @@
+.# Secrets and build output - never committed
+.env*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+*credentials*
+.DS_Store
+node_modules/
+vendor/
+dist/
+build/
+out/
+public/build/
+__pycache__/
+.venv/
+venv/
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.bak*
+*.mp4
+*.mov
+.next/
+.nuxt/
